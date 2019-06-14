@@ -1,1 +1,1 @@
-ALTER TABLE migration
+ALTER TABLE pokemon 
