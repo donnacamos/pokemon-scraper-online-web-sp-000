@@ -18,5 +18,6 @@ class Pokemon
    new_pokemon.name = pokemon[0][1]
    new_pokemon.type = pokemon[0][2]
    new_pokemon.hp = pokemon[0][3]
+   return new_pokemon 
  end 
 end 
