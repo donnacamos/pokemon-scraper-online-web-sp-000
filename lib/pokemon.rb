@@ -21,5 +21,5 @@ class Pokemon
    return new_pokemon 
  end 
  
- 
+ def alter_hp()
 end 
